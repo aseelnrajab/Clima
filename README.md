@@ -15,4 +15,3 @@
 8. Parse JSON with the native Encodable and Decodable protocols.
 9. Use Grand Central Dispatch to fetch the main thread.
 10. Use Core Location to get the current location from the phone GPS.
-11. 
